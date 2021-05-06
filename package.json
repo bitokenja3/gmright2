@@ -1,16 +1,16 @@
 {
-  "name": "nuxtjs",
+  "name": "gmright2",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
+  "description": "My astonishing gmright2.js project",
   "author": "msweeneydev",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt generate",
-    "start": "nuxt start"
+    "dev": "gmright2",
+    "build": "gmright2 generate",
+    "start": "gmright2 start"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "Gmright2": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
